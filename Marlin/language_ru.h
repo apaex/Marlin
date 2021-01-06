@@ -338,7 +338,7 @@
   #define MSG_INFO_COMPLETED_PRINTS         _UxGT("Закончено")
   #define MSG_INFO_PRINT_TIME               _UxGT("Общее время печати")
   #define MSG_INFO_PRINT_LONGEST            _UxGT("Наидольшее задание")
-  #define MSG_INFO_PRINT_FILAMENT           _UxGT("Длинна филамента")
+  #define MSG_INFO_PRINT_FILAMENT           _UxGT("Длина филамента")
 #else
   #define MSG_INFO_PRINT_COUNT              _UxGT("Отпечатков")
   #define MSG_INFO_COMPLETED_PRINTS         _UxGT("Закончено")
